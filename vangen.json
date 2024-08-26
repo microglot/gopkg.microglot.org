@@ -1,0 +1,23 @@
+{
+    "domain": "gopkg.microglot.org",
+    "docsDomain": "pkg.go.dev",
+    "index": true,
+    "repositories": [
+      {
+        "prefix": "compiler.go",
+        "main": true,
+        "subs": [],
+        "type": "git",
+        "hidden": false,
+        "url": "https://github.com/microglot/compiler.go",
+        "source": {
+          "home": "https://github.com/microglot/compiler.go",
+          "dir": "https://github.com/microglot/compiler.go/tree/master{/dir}",
+          "file": "https://github.com/microglot/compiler.go/blob/master{/dir}/{file}#L{line}"
+        },
+        "website": {
+          "url": "https://github.com/microglot/compiler.go"
+        }
+      }
+    ]
+  }

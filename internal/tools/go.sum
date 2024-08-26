@@ -1,0 +1,4 @@
+4d63.com/vangen v1.4.1 h1:zzdKaLmLclda3RiM2g62cZyTJCQPCe0UXsZb9J71z8Y=
+4d63.com/vangen v1.4.1/go.mod h1:22gTGIk+3vxkbIEdMY8VuVuomah6yWWQ8cGVhYuR30U=
+github.com/sergi/go-diff v1.0.0 h1:Kpca3qRNrduNnOQeazBd0ysaKrUJiIuISHxogkT9RPQ=
+github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
