@@ -17,7 +17,7 @@ $(BUILD_DIR): $(VANGEN_CONFIG) | $(BIN_DIR)
 	@ $(BIN_DIR)/vangen -out $(BUILD_DIR) -config $(VANGEN_CONFIG)
 
 release: | $(BUILD_DIR)
-	@ wrangler --config $(WRANGLER_CONFIG) pages deploy $(BUILD_DIR) --project-name=$(PROJECT_NAME)
+	@ npx wrangler --config $(WRANGLER_CONFIG) pages deploy $(BUILD_DIR) --project-name=$(PROJECT_NAME)
 
 tools: $(BIN_DIR)
 $(BIN_DIR): $(TOOLS_FILE) $(TOOLS_MOD) $(TOOLS_SUM)
