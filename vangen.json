@@ -4,19 +4,19 @@
     "index": true,
     "repositories": [
       {
-        "prefix": "compiler.go",
+        "prefix": "mglotc",
         "main": true,
         "subs": [],
         "type": "git",
         "hidden": false,
-        "url": "https://github.com/microglot/compiler.go",
+        "url": "https://github.com/microglot/mglotc",
         "source": {
-          "home": "https://github.com/microglot/compiler.go",
-          "dir": "https://github.com/microglot/compiler.go/tree/master{/dir}",
-          "file": "https://github.com/microglot/compiler.go/blob/master{/dir}/{file}#L{line}"
+          "home": "https://github.com/microglot/mglotc",
+          "dir": "https://github.com/microglot/mglotc/tree/master{/dir}",
+          "file": "https://github.com/microglot/mglotc/blob/master{/dir}/{file}#L{line}"
         },
         "website": {
-          "url": "https://github.com/microglot/compiler.go"
+          "url": "https://github.com/microglot/mglotc"
         }
       }
     ]
